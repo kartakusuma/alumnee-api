@@ -6,3 +6,7 @@
 - PostgreSQL
 - Spring Data JPA
 - Spring Web
+
+## Modules
+- CRUD Alumnee (Has Many Jobs)
+- CRUD Job (Belongs To Alumnee)
